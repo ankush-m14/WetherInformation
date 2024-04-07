@@ -14,6 +14,9 @@ This project utilizes a specific technology stack and database to accomplish its
 
 -**Maven**
 
+
+
+
 ## Database
 
 - **MySQL**: MySQL is selected as the database management system for storing and managing project data. MySQL is widely used, open-source, and offers features such as scalability, and high performance.
